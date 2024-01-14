@@ -342,6 +342,7 @@ nav{
 
 
 /* team */
+
 .team{
     position: relative;
     padding: 150px 0;
@@ -412,6 +413,7 @@ nav{
     height: 200px;
 }
 
+/* info */
 
 .info{
     padding: 150px 0;
@@ -492,6 +494,8 @@ nav{
     font-family: Noto Sans JP;
     font-weight: 600;
 }
+
+/* footer */
 
 footer{
     background-color: rgb(0, 0, 0);
