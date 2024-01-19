@@ -20,7 +20,7 @@ nav{
     align-items: center;
 }
 .nav-left{
-    width: 300px;
+    width: 250px;
 }
 .nav-left img{
     width: 100%;
@@ -42,7 +42,7 @@ nav{
     padding-bottom: 10px;
 }
 .nav-right{
-    width: 300px;
+    width: 250px;
     text-align: right;
 }
 .nav-right a{
